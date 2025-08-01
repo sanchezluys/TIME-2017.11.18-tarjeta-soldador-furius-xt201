@@ -1,4 +1,4 @@
-# TME-2017.11.18-tarjeta-soldador-furius-xt201
+# TIME-2017.11.18-tarjeta-soldador-furius-xt201
 informacion tecnica de la tarjeta para maquina de soldar
 
 ![1754078149587](image/README/1754078149587.png)
