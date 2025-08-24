@@ -5,6 +5,8 @@ informacion tecnica de la tarjeta para maquina de soldar
 
 ![1754078287971](image/README/1754078287971.png)
 
+![circuito](image/README/circuito.png)
+
 Referencia: FW201-06B
 Descripcion: REPUES FW201 TARJETA DE EXCITACIÓN DE TRANSFORMADOR
 Largo: 32.9 mm
